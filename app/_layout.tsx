@@ -10,10 +10,10 @@ import { MyDarkTheme, MyLightTheme } from "@/components/ThemeColor";
 
 export { ErrorBoundary } from 'expo-router';
 
-setOptions({
-  duration: 200,
-  fade: true,
-});
+// setOptions({
+//   duration: 200,
+//   fade: true,
+// });
 
 preventAutoHideAsync();
 
