@@ -1,12 +1,10 @@
 import { Redirect } from 'expo-router';
 import { NativeTabs } from 'expo-router/unstable-native-tabs';
 import { useSession } from '@/context/Authentication';
-import { useTheme } from '@react-navigation/native';
 import AuthCheck from '@/components/AuthCheck';
 
 export default function TabLayout() {
   const { session, isLoading } = useSession();
-  const { colors } = useTheme()
 
   if (isLoading) {
     return <AuthCheck />
