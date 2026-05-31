@@ -1,5 +1,5 @@
 import "./global.css"
-import { ThemeProvider } from '@react-navigation/native';
+import { ThemeProvider } from "expo-router/react-navigation";
 import { useFonts } from 'expo-font';
 import { hideAsync, preventAutoHideAsync, setOptions } from 'expo-splash-screen'
 import { Slot } from 'expo-router';
