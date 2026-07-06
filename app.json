@@ -38,8 +38,7 @@
           "android": {
             "compileSdkVersion": 36,
             "targetSdkVersion": 36,
-            "buildToolsVersion": "36.0.0",
-            "usePrecompiledHeaders": true
+            "buildToolsVersion": "36.0.0"
           },
           "ios": {
             "deploymentTarget": "16.4"
@@ -80,7 +79,8 @@
           "createTask": true,
           "useProxyActivity": true
         }
-      ]
+      ],
+      "expo-status-bar"
     ],
     "experiments": {
       "typedRoutes": true

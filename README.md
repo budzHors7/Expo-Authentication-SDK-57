@@ -2,7 +2,7 @@
 
 **Expo** Basic Authentication Template using **Context Provider** & `expo-secure-store` to persist user on the device.
 
-> **Note:** This app is using the **Expo SDK 55**, **React Native v0.82.1**, **React v19.2.0**, **Expo Router v55** with the **Nativewind v5 Preview (Tailwindcss v4)**
+> **Note:** This app is using the **Expo SDK 57**, **React Native v0.86.0**, **React v19.2.3**, **Expo Router v57** with the **Nativewind v5 Preview (Tailwindcss v4)**
 
 ![app](/assets/images/App%20Showcase.png)
 
