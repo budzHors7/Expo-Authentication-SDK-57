@@ -8,11 +8,11 @@
 
 ## How to get the project?
 
-    git clone https://github.com/budzHors7/Expo-Authentication-SDK-55.git
+    git clone https://github.com/budzHors7/Expo-Authentication-SDK-57.git
 
 ### Open project directory
 
-    cd Expo-Authentication-SDK-55
+    cd Expo-Authentication-SDK-57
 
 ### Install node_modules
 
